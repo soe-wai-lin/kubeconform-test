@@ -4,5 +4,5 @@ resources:
   - ../../base 
 
 patches:
-  - pod.yaml
-  - service.yaml
+  - path: pod.yaml
+  - path: service.yaml
